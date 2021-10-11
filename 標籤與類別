@@ -1,4 +1,6 @@
 nav標籤 class類別
+一個標籤只能有一個class屬性
+一個class類別 有三個名稱 但是要用空白鍵把它隔開
 
 <!DOCTYPE html>
 <html lang="zh-Hang-TW">
